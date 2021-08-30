@@ -1,8 +1,1 @@
-MediaBrowser.Plugins.Anime
-==========================
-
-An anime metadata provider for Media Browser 3
-
-## Compiling and Testing
-
-You must have a %MediaBrowserData% environment variable pointing to the server data folder of the Media Browser server. The plugin will be copied into the plugins folder when the project is successfully built.
+![shamal](https://user-images.githubusercontent.com/1069665/131414580-714daa23-2ee4-4ff3-a725-9a4c7ac57f97.png)
